@@ -1,4 +1,4 @@
-package Review2;
+package review2;
 
 public class AnotherNested {
     public static void main(String[] args) {

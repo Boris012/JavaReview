@@ -1,6 +1,4 @@
-package Review1;
-
-import java.sql.SQLOutput;
+package review1;
 
 public class Variables {
     public static void main(String[] args) {

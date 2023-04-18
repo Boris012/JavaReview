@@ -1,4 +1,4 @@
-package Review1;
+package review1;
 
 public class Concatenation {
     public static void main(String[] args) {

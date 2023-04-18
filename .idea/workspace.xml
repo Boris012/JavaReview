@@ -4,7 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7238bad2-d585-4e57-a2b0-96fc987932f0" name="Changes" comment="" />
+    <list default="true" id="7238bad2-d585-4e57-a2b0-96fc987932f0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Review1/Concatenation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/review1/Concatenation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Review1/DataTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/review1/DataTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Review1/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/review1/Hello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Review1/Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/review1/Variables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Review1/WhatIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/review1/WhatIf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Review2/AnotherNested.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/review2/AnotherNested.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Review2/Casting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/review2/Casting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Review2/IfElse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/review2/IfElse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Review2/IfElseIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/review2/IfElseIf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Review2/IfStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/review2/IfStatement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Review2/NestedIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/review2/NestedIf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Review2/NotScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/review2/NotScanner.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +30,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -33,11 +50,11 @@
 }</component>
   <component name="RunManager" selected="Application.NotScanner">
     <configuration name="AnotherNested" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Review2.AnotherNested" />
+      <option name="MAIN_CLASS_NAME" value="review2.AnotherNested" />
       <module name="JavaReview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Review2.*" />
+          <option name="PATTERN" value="review2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -46,11 +63,11 @@
       </method>
     </configuration>
     <configuration name="IfElse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Review2.IfElse" />
+      <option name="MAIN_CLASS_NAME" value="review2.IfElse" />
       <module name="JavaReview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Review2.*" />
+          <option name="PATTERN" value="review2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,11 +76,11 @@
       </method>
     </configuration>
     <configuration name="IfElseIf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Review2.IfElseIf" />
+      <option name="MAIN_CLASS_NAME" value="review2.IfElseIf" />
       <module name="JavaReview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Review2.*" />
+          <option name="PATTERN" value="review2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,11 +89,11 @@
       </method>
     </configuration>
     <configuration name="NestedIf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Review2.NestedIf" />
+      <option name="MAIN_CLASS_NAME" value="review2.NestedIf" />
       <module name="JavaReview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Review2.*" />
+          <option name="PATTERN" value="review2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,11 +102,11 @@
       </method>
     </configuration>
     <configuration name="NotScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Review2.NotScanner" />
+      <option name="MAIN_CLASS_NAME" value="review2.NotScanner" />
       <module name="JavaReview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Review2.*" />
+          <option name="PATTERN" value="review2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
